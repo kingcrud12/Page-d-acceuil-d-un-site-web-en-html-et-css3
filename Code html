@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+	   <meta charset="utf-8">
+	   <title>Carnets de voyage</title>
+	   <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+    	<div id="bloc_page">
+    		<header>
+    	   	    <div id="titre_principal">
+    	   	    	<div id="logo">
+    	   	    		<img src="Images/zozor_logo.png" alt="Logo de zozor">
+    	   	    		<h1>Zozor</h1>
+    	   	    	</div>
+    	   	    	<h2>Carnets de voyages</h2>
+    	   	    </div>
+
+    	   	    <nav>
+    	   	    	<ul>
+    	   	    		<li><a href="#">Accueil</a></li>
+    	   	    		<li><a href="#">Blog</a></li>
+    	   	    		<li><a href="#">CV</a></li>
+    	   	    		<li><a href="#">Contact</a></li>
+    	   	    	</ul>
+    	   	    </nav>
+    	    </header>
+
+    	    <div id="bannière_image">
+    	    	<div id="bannière_description">Retour sur mes vacances aux Etats-unis...<a href="#" class="bouton_rouge">voir l'article<img src="Images/flecheblanchedroite.png" alt="fleche blanche" /></a>
+    	    		
+    	        </div>
+
+    	    </div>
+
+    	    <section>
+    	    	<article>
+    	    		<h1><img src="Images/ico_epingle.png" alt="Catégorie voyage" class="ico_catégorie" />Je suis un grand voyageur</h1>
+    	    		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt metus a venenatis dignissim. In sit amet ullamcorper turpis. Nulla sed velit et leo elementum vestibulum. Nullam scelerisque nulla eget massa tincidunt blandit. In hac habitasse platea dictumst. Ut dictum non elit sit amet ornare. Vivamus ultrices erat ut sapien luctus, quis feugiat elit lobortis. Maecenas mollis felis ut mi tempus fermentum. Aliquam eu mi tellus. Ut luctus sem a magna laoreet tincidunt quis nec tellus. Suspendisse potenti. Vestibulum blandit ligula a mi feugiat, vel iaculis sem placerat. Vestibulum mattis tempor dolor, ut volutpat eros dignissim vitae. Ut gravida dictum cursus. Sed rutrum, turpis in imperdiet pretium, augue sem tempus enim, a faucibus mi purus at nisl.</p>
+
+    	    		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat hendrerit lacus nec tincidunt. Nunc pharetra purus ornare aliquet congue. Nulla at imperdiet sem, at varius ligula. Sed sed condimentum quam. In non facilisis justo, et sodales leo. Nullam quam dui, suscipit sed blandit eget, iaculis sit amet enim. Sed posuere vestibulum velit, sed molestie lectus luctus sed. In lacinia mi at nulla tristique posuere. Vestibulum vel risus quis ligula aliquet aliquet euismod sed nulla. Pellentesque urna ex, vulputate a tristique eget, sagittis sed felis. Sed sollicitudin libero eget posuere maximus. Vestibulum diam metus, pellentesque vel ante vel, hendrerit laoreet enim. Phasellus egestas erat lorem, nec pellentesque neque consequat in.
+    	    		Cras pretium eget ipsum a iaculis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam vulputate fringilla ornare. Ut sit amet libero a metus ornare maximus. Mauris placerat velit pharetra dolor rhoncus, sit amet commodo nulla dignissim. Sed viverra ligula sit amet mi tempus, id interdum eros suscipit. Vestibulum gravida mattis libero eu tincidunt. Aenean sit amet gravida felis. Ut porta lectus sed viverra ornare. Vestibulum non neque consectetur libero interdum gravida in ac odio. Sed a massa id mauris tempus laoreet. Donec vel venenatis urna, in auctor enim. Mauris mattis, magna ut consequat aliquet, risus odio pellentesque dui, a semper sapien enim non ligula. Quisque sodales dictum augue et elementum. Vivamus eros ante, volutpat vel erat eu, viverra consequat velit. Phasellus auctor dolor vitae faucibus porta.</p>
+
+    	    		<p>Aliquam erat volutpat. Duis a massa eu nisi tincidunt iaculis. Maecenas et lacus sit amet arcu lobortis fermentum vitae ac risus. Morbi vitae lacinia diam. Quisque orci lacus, scelerisque nec congue at, tristique sit amet metus. Mauris sed est bibendum, venenatis libero a, cursus felis. Maecenas luctus ornare ante, ac fermentum est pellentesque in.Proin tempus non elit non scelerisque. Nulla elementum, risus sed ullamcorper aliquet, purus metus lacinia mauris, a elementum lacus nisl in felis. Pellentesque sit amet interdum lacus, ac mattis enim. Morbi ac nisi fermentum, convallis sapien commodo, vehicula sem. Curabitur est est, varius id bibendum et, placerat vitae magna. Aenean ac mauris eget felis vehicula facilisis nec nec libero. Suspendisse id commodo orci. Sed pellentesque orci nec dui pulvinar, et consequat turpis congue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                </article>
+                <aside>
+    	    		<h1>A propos de l'auteur</h1>
+    	    		<img src="Images/bulle.png" alt="" id="fleche_bulle" />
+    	    		<p id="photo_zozor"><img src="Images/zozor_classe.png" alt="Photo de zozor" /></p>
+    	    		<p>Laissse moi le temps de présenter: je m'appelle zozor, je suis né un 12 Mai 1996.</p>
+    	    		<p>Bien maigre, n'est-ce pas? C'est pourquoi, aujourd'hui, j'ai décidé d'écrire ma biographie afin qe vous sachiez qui je suis réellement.</p>
+    	    		<p><img src="Images/facebook.png" alt="Facebook" /><img src="Images/twitter.png" alt="Twitter" /><img src="Images/flickr.png" alt="Flickr" /><img src="Images/rss.png" alt="RSS" /></p>
+    	    	</aside>
+    	    </section>
+
+    	    <footer>
+    	    	<div id="tweet">
+    	    		<h1>Mon dernier tweet</h1>
+    	    		<p>Hii haaaan</p>
+    	    		<p>le 12 Mai à 23h05</p>
+    	    	</div>
+    	    	<div id="mes_photos">
+    	    		<h1>Mes photos</h1>
+    	    		<p><img src="Images/photo1.jpg" alt="Phtographie" /><img src="Images/photo2.jpg" alt="Photographie"><img src="Images/photo3.jpg" alt="Phtographie" /><img src="Images/photo3.jpg" alt="Phtographie" /></p>
+    	    	</div>
+    	    	<div id="mes_amis">
+    	    		<h1>Mes amis</h1>
+    	    		<div id="listes_amis">
+    	    			<ul>
+    	    				<li><a href="#">Pupi le lapin</a></li>
+    	    				<li><a href="#">Mr Baobab</a></li>
+    	    				<li><a href="#">Kaiwai</a></li>
+    	    				<li><a href="#">Perceval.eu</a></li>
+    	    			</ul>
+    	    			<ul>
+    	    				<li><a href="#">Belette</a></li>
+    	    				<li><a href="#">Le concombre masqué</a></li>
+    	    				<li><a href="#">Ptit prince</a></li>
+    	    				<li><a href="#">Mr fan</a></li>
+    	    			</ul>
+    	    		</div>
+    	    		
+    	    	</div>
+    	    </footer>
+
+        </div>
+</body>
+</html>
